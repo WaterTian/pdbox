@@ -1,4 +1,5 @@
-
+//*********changewate.cn*********
+//webpd
 
 var _w = window.innerWidth;
 var _h = window.innerHeight;
