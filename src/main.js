@@ -41,15 +41,6 @@ function resize() {
     _hHalf = _h / 2;
 
     renderer.resize(_w, _h);
-<<<<<<< HEAD
-    if(_w>_h)
-    {
-        document.getElementById('orientation').style.display = 'block';
-    }else{
-        document.getElementById('orientation').style.display = 'none';
-    }
-=======
->>>>>>> gh-pages
 }
 
 function motionHandler(event) {
